@@ -1,3 +1,3 @@
 # Robot-manipulators
 
-This repository contains small scripts of code I made for a robot manipulator course in University.
+This repository contains a bonus task for the course robot manipulators. It has to do with inverse kinematics of a two-jointed robot. The report covers all details of the task. 
